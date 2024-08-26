@@ -11,7 +11,7 @@ function ProjectCard({ project, isDarkMode, reverse }) {
       </div>
       <div className='p-4 flex flex-col gap-3 md:w-[50vw]'>
         <h1 className='font-bold text-xl'>{project.title}</h1>
-        <p>{project.description}</p>
+        <p className='font-light'>{project.description}</p>
         <div className='grid grid-cols-2 md:grid-cols-4 gap-2'>
           {project.skills.map((skill, index) => (
             <div key={index} className='flex justify-center items-center'>

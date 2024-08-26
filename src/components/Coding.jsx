@@ -9,7 +9,7 @@ function Coding() {
   return (
     <div className={`p-4 ${isDarkMode ? 'bg-black text-white' : 'bg-white text-black'}`}>
       <div className="flex justify-center items-center">
-        <div className={`rounded-full w-44 h-12 flex justify-center items-center ${isDarkMode ? 'bg-gray-700' : 'bg-gray-300'}`}>
+        <div className={`rounded-full w-44 h-10 md:h-12 flex justify-center items-center ${isDarkMode ? 'bg-gray-700' : 'bg-gray-300'}`}>
             <p className="text-center">Coding Profiles</p>
         </div>
       </div>

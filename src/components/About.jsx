@@ -14,7 +14,7 @@ function Hero() {
         <h1 className='text-3xl font-bold'>Hi , I am Naga Kanaka Lakshmi &#128075;</h1>
         <p className='md:w-[50vw]'>
           An ambitious Full Stack Developer with a passion of continous learning and innovation.
-          Pre-final year student @VIIT.
+          Final year student @VIIT.
           I like problem solving and developing web pages.
         </p>
         <div className='flex flex-row gap-1 items-center'>
