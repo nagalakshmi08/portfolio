@@ -23,7 +23,7 @@ const Navbar = () => {
                     <a href="#contact">Contact</a>
                     <div className='flex pl-5 gap-4'> {/* Increased ml-4 and gap-4 */}
                         <button onClick={toggleTheme}>{isDarkMode ? <IoSunny size={20} /> : <IoMoon size={20} />}</button>
-                        <a href='https://drive.google.com/file/d/1SoDgaCv5BXu6ztfm6xnzCrUZe1AZiGDo/view?usp=sharing' target='_blank'>
+                        <a href='https://drive.google.com/file/d/1yOw9yTrhesP8QSq49IpXU6AGRzTHlii4/view?usp=sharing' target='_blank'>
                             <button className={`px-4 py-2 rounded-md ${isDarkMode ? 'bg-white text-black' : 'bg-black text-white'}`}>My Resume</button>
                         </a>
                     </div>

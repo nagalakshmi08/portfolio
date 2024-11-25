@@ -3,20 +3,21 @@ const experiences = [
       title: 'GirlScript Summer of Code',
       role: 'Open Source Contributor',
       description: [
-        'Contributing to various open source projects, enhancing codebases and adding new features.',
-        'Collaborated with global teams, adhering to best practices and maintaining code quality.',
+        'Contributed to multiple repositories with 40+ pull requests.',
+        'Gained expertise in version control and open-source development practices.',
+        'Ranked 79th out of over 2400+ contributors.',
       ],
-      date: 'May 2024 - Present',
+      date: 'May 2024 - Aug 2024',
     },
     {
       title: 'Harmony Infotech',
       role: 'Web Developer Intern',
       description: [
-        'Currently developing web automation tools using Beautifulsoup in python and Puppeteer in node.js for Web scraping.',
-        'Integrated APIs for streamlined data retrieval and application enhancement.',
-        'Written technical blog on VPS servers, simplifying complex concepts for a broad audience.',
+        'Developed Domain Analyzer, a web application providing detailed information about specific domains.',
+        'Employed web scraping tools like BeautifulSoup to automate data extraction, reducing manual effort.',
       ],
-      date: 'April 2024 - Present',
+      link: 'https://domain-analyzer-kcvo.onrender.com/',
+      date: 'April 2024 - May 2024',
     },
     {
       title: 'EduMoon',
